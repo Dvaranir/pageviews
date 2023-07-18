@@ -1,0 +1,6 @@
+__pycache__
+*.png
+*.jpg
+*.zip
+screenshots/
+urls.txt
